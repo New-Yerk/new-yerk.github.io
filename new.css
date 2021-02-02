@@ -1,0 +1,28 @@
+html {
+  background-color: #A7A1FF;
+}
+h1 {
+  background-color: #FFFFFF;
+  text-align: center;
+
+}
+
+h3 {
+  background-color: #FFFFFF;
+  display: block;
+}
+
+.Commentary {
+  display: inline-block;
+  background-color: #FFFFFF;
+}
+
+.Performers {
+  display: inline-block;
+  background-color: #FFFFFF;
+}
+
+.Buttons {
+  display: inline-block;
+  background-color: #FFFFFF;
+}
