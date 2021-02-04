@@ -1,15 +1,28 @@
 html {
   background-color: #A7A1FF;
 }
-h1 {
-  background-color: #FFFFFF;
-  text-align: center;
-
+.HeadingText {
+  display:block;
+text-align: center;
+background-color: white;
 }
 
 h3 {
   background-color: #FFFFFF;
+  text-align: center;
   display: block;
+}
+.Row {
+  display: inline-block;
+}
+}
+video {
+  margin: auto;
+  display: block;
+  left: 320px;
+}
+#Marta {
+  
 }
 
 .Commentary {
