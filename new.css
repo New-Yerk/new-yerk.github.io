@@ -14,6 +14,7 @@ h3 {
 }
 .Row {
   display: inline-block;
+  margin:auto;
 }
 }
 video {
@@ -22,9 +23,12 @@ video {
   left: 320px;
 }
 #Marta {
-  
+ right:10px;
 }
-
+#Ilya {
+  margin: auto;
+  display: block;
+}
 .Commentary {
   display: inline-block;
   background-color: #FFFFFF;
