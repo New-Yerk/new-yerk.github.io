@@ -2,34 +2,38 @@ html {
   background-color: #B38D97;
 }
 .HeadingText {
-text-align: center;
   background-color: #EBCFB2;
   padding-top: 20px;
   padding-bottom: 5px;
   font-family: 'Lexend Mega', sans-serif;
+  text-align: center;
 }
 h2 {
   background-color: #D5ACA9;
   text-align: center;
   padding-top: 10px;
 padding-bottom: 10px;
-  position:relative;
-}
-h3 {
+font-family: 'Lexend Mega', sans-serif;
 
 }
-#Concept {
-  background-color: #EBCFB2;
-  display: block;
+h3 {
+font-family: 'Lexend Mega';
 }
 #Performers {
+  background-color: #EBCFB2;
+  display: block;
+  text-decoration: underline;
+}
+#Concept {
   position: absolute;
   right: 5px;
   background-color: #EBCFB2;
   display: block;
+  text-decoration: underline;
 }
 .Buttons {
   display: block;
+  color: #7B8BE3;
 }
 
 video {
@@ -62,24 +66,21 @@ video {
   border: 5px solid #A57982;
   border-radius: 15px;
 }
+#Yerk_Facts {
+  border: 5px solid #A57982;
+  border-radius: 15px;
+}
+#Closing_Button {
+  background-color: #EBCFB2;
+display: inline;
 
-
+}
+#Text_Closing {
+    text-align: center;
+    display: inline;
+}
 #Ilya {
   margin: auto;
   display: block;
   padding-top: 10px;
-}
-.Commentary {
-  display: inline-block;
-  background-color: #FFFFFF;
-}
-
-.Performers {
-  display: inline-block;
-  background-color: #FFFFFF;
-}
-
-.Buttons {
-  display: inline-block;
-  background-color: #FFFFFF;
 }
