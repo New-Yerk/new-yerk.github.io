@@ -1,33 +1,73 @@
 html {
-  background-color: #A7A1FF;
+  background-color: #B38D97;
 }
 .HeadingText {
-  display:block;
 text-align: center;
-background-color: white;
+  background-color: #EBCFB2;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  font-family: 'Lexend Mega', sans-serif;
 }
-
-h3 {
-  background-color: #FFFFFF;
+h2 {
+  background-color: #D5ACA9;
   text-align: center;
+  padding-top: 10px;
+padding-bottom: 10px;
+  position:relative;
+}
+h3 {
+
+}
+#Concept {
+  background-color: #EBCFB2;
   display: block;
 }
-.Row {
-  display: inline-block;
-  margin:auto;
+#Performers {
+  position: absolute;
+  right: 5px;
+  background-color: #EBCFB2;
+  display: block;
 }
+.Buttons {
+  display: block;
 }
+
 video {
   margin: auto;
   display: block;
-  left: 320px;
+  padding: 15px;
+  border: 5px solid #120D31;
 }
-#Marta {
- ;
+#Press {
+
 }
+#Concept {
+    display:inline-block;
+}
+#Performers {
+    display:inline-block;
+  text-align:right;
+}
+
+.Row {
+  display: block;
+  margin:auto;
+  width: 90%;
+  margin-left: 5%;
+}
+#Campus {
+  border: 10px solid #302F4D;
+}
+.Us {
+  border: 5px solid #A57982;
+  border-radius: 15px;
+}
+
+
 #Ilya {
   margin: auto;
   display: block;
+  padding-top: 10px;
 }
 .Commentary {
   display: inline-block;
