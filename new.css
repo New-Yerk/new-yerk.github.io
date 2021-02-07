@@ -73,12 +73,10 @@ video {
 #Closing_Button {
   background-color: #EBCFB2;
 display: inline;
+text-decoration: underline;
 
 }
-#Text_Closing {
-    text-align: center;
-    display: inline;
-}
+
 #Ilya {
   margin: auto;
   display: block;
