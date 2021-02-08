@@ -42,15 +42,12 @@ video {
   padding: 15px;
   border: 5px solid #120D31;
 }
-#Press {
-
-}
 #Concept {
     display:inline-block;
 }
 #Performers {
     display:inline-block;
-  text-align:right;
+    text-align:right;
 }
 
 .Row {
@@ -74,7 +71,23 @@ video {
   background-color: #EBCFB2;
 display: inline;
 text-decoration: underline;
-
+}
+#ilya_facts {
+  border: 5px solid #A57982;
+  border-radius: 15px;
+  margin:auto;
+  display: block;
+}
+#Marta_Facts {
+  border: 5px solid #A57982;
+  border-radius: 15px;
+  position: relative;
+  left: 52%;
+}
+#CampusButton {
+  text-align: center;
+  color: #B2F5DA;
+  text-decoration: underline;
 }
 
 #Ilya {
