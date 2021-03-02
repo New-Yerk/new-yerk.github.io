@@ -1,2 +1,0 @@
-# new-yerk.github.io
- 

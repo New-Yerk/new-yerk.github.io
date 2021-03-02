@@ -1,0 +1,97 @@
+html {
+  background-color: #B38D97;
+}
+.HeadingText {
+  background-color: #EBCFB2;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  font-family: 'Lexend Mega', sans-serif;
+  text-align: center;
+}
+h2 {
+  background-color: #D5ACA9;
+  text-align: center;
+  padding-top: 10px;
+padding-bottom: 10px;
+font-family: 'Lexend Mega', sans-serif;
+
+}
+h3 {
+font-family: 'Lexend Mega';
+}
+#Performers {
+  background-color: #EBCFB2;
+  display: block;
+  text-decoration: underline;
+}
+#Concept {
+  position: absolute;
+  right: 5px;
+  background-color: #EBCFB2;
+  display: block;
+  text-decoration: underline;
+}
+.Buttons {
+  display: block;
+  color: #7B8BE3;
+}
+
+video {
+  margin: auto;
+  display: block;
+  padding: 15px;
+  border: 5px solid #120D31;
+}
+#Concept {
+    display:inline-block;
+}
+#Performers {
+    display:inline-block;
+    text-align:right;
+}
+
+.Row {
+  display: block;
+  margin:auto;
+  width: 90%;
+  margin-left: 5%;
+}
+#Campus {
+  border: 10px solid #302F4D;
+}
+.Us {
+  border: 5px solid #A57982;
+  border-radius: 15px;
+}
+#Yerk_Facts {
+  border: 5px solid #A57982;
+  border-radius: 15px;
+}
+#Closing_Button {
+  background-color: #EBCFB2;
+display: inline;
+text-decoration: underline;
+}
+#ilya_facts {
+  border: 5px solid #A57982;
+  border-radius: 15px;
+  margin:auto;
+  display: block;
+}
+#Marta_Facts {
+  border: 5px solid #A57982;
+  border-radius: 15px;
+  position: relative;
+  left: 52%;
+}
+#CampusButton {
+  text-align: center;
+  color: #B2F5DA;
+  text-decoration: underline;
+}
+
+#Ilya {
+  margin: auto;
+  display: block;
+  padding-top: 10px;
+}

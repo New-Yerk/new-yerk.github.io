@@ -1,0 +1,73 @@
+body {
+  background-color: grey;
+}
+.ButtonRow {
+  display: flex;
+  width: 100vw;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh;
+}
+#Comic {
+  margin:0;
+  height: 99vh;
+  width: 80%;
+  border-color: floralwhite;
+  border-style: solid;
+}
+#soundButton {
+  width: 5%;
+  position: fixed;
+  left: 3%;
+  top: 4%;
+  background-color: white;
+  border-radius: 50px;
+  cursor: pointer;
+}
+#NoSoundButton {
+  width: 5.5%;
+  position: fixed;
+  right: 2%;
+  top: 4%;
+  background-color: white;
+  border-radius: 50px;
+  cursor: pointer;
+}
+#Again_Button {
+  width:10%;
+  right:0;
+  bottom:10px;
+  cursor: pointer;
+  position: fixed;
+}
+#Again_Button:hover {
+  transform: scale(1.5);
+  transition-duration: 0.5s;
+}
+#soundButton {
+  width: 5%;
+}
+#backButton {
+  width:10%;
+}
+#Comic {
+  width: 79%;
+}
+#nextButton {
+  width: 10%;
+}
+#backButton, #nextButton {
+  cursor: pointer;
+}
+#backButton:hover {
+  transform: scale(1.5);
+  transition-duration: 0.5s;
+}
+#soundButton:hover, #NoSoundButton:hover {
+  transform: scale(1.5);
+  transition-duration: 0.5s;
+}
+#nextButton:hover {
+  transform: scale(1.5);
+  transition-duration: 0.5s;
+}
