@@ -25,7 +25,7 @@ For this part of the assignment, I picked Ethiopian objects. It is important to 
 
 ! (/assets/images/Ethiopian_1.jpeg)
 
-! (Ethiopian_2.jpeg)
+! (/assets/images/Ethiopian_2.jpeg)
 
 Once I visited the website, I understood that the reason why some were more ‘popular’ than others is due to the presence of images of the most viewed manuscripts and the lack of images of the least viewed ones. This is important because a visitor of the website, such as a professor of the history of Ethiopia or Christinaty, would be interested in seeing not only the descriptions of the objects, but also the contents of the manuscripts. The manuscripts that are the most viewed contain images of writings in Amharic, which could provide a great deal of information regarding the ways Ethiopian writers translated the Bible. This is likely the reason why the “Manuscript of Discourses on the Festivals of Saint Michael, with ninety-three paintings” has been seen more times than another highly viewed artwork “Prayer Roll in Amharic,” as the former is accompanied by higher resolution images, which make its writing more legible in comparison to the latter. Additionally, some of the highly viewed artworks contain images of paintings in the manuscripts, which provides a great deal of information about how Ethiopian artists depicted Christian Saints. This information is simply unaccessible in some of the least viewed artworks due to the lack of images of those objects.
   
