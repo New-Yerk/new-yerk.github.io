@@ -49,4 +49,3 @@ Most of the Central Asian objects were acquired in the year 1924, which coincide
 
 In conclusion, the analysis of Central Asian, Turkic, and Iranian artifacts reveals intricate historical connections. The digital method used in this analysis underscores the significance of interdisciplinary approaches in unraveling the intertwined histories of these cultures and their rich exchanges.
 
-**Ready for grading**
