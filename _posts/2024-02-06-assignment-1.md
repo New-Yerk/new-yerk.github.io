@@ -23,7 +23,7 @@ In conclusion, the comparative analysis between the presentation of artworks on 
 
 For this part of the assignment, I picked Ethiopian objects. It is important to note that these objects were specifically characterized as “Ethiopian” and not “East African,” pointing to a higher degree of certainty regarding the origins of the objects. Unsurprisingly, most of the objects were of religious, particularly Christian, nature, as Ethiopia is known for its rich Orthodox Christian history. While the majority of the objects were religious manuscripts, some such as “Manuscript of Discourses on the Festivals of Saint Michael, with ninety-three paintings” and “Prayer Roll in Amharic” were the most viewed, while others such as “Leather Scroll: Ethiopian Prayers” and “A Manuscript Anthology of Religious Texts and Prayers in Amharic” were the least seen objects, which is puzzling as one would assume that the contents of these objects are equally important.  
 
-! (Ethiopian_1.jpeg)
+! (/assets/images/Ethiopian_1.jpeg)
 
 ! (Ethiopian_2.jpeg)
 
@@ -33,19 +33,19 @@ Once I visited the website, I understood that the reason why some were more ‘p
 
 For this part of the assignment, I decided to focus on three cultures that are tied historically: Central Asian, Turkic, and Iranian. There is a great deal of influence that these cultures had on each other, with Central Asian and Turkic identities being virtually indistinguishable from each other in modernity. At first, due to the indicated stop words, the wordclouds of all three cultures had a huge “nan” culture. However, after having removed those in the code, interesting patterns began to emerge. One of the biggest clusters in the Central Asian wordcloud were the words “Buddha” and “Seated Buddha,” along with physical descriptions of the objects themselves such as “Unfired Clay” and “Wooden Stand.” The former clusters are particularly interesting due to the often overlooked history of Buddhism in Central Asia. The preserved art points to the artifacts that showcase that history. A look at the objects themselves on the HAM website reveals that the objects were connected to the Western Xia empire which had trade ties to Central Asia. Interestingly, the name of the city I am from in Kazakhstan (Semey) roughly translates to “Seven Tents,” which refer to the seven Buddhist temples that were found by Russian settlers.
 
-! (Central_Asian_wordcloud.jpg)
+! (/assets/images/Central_Asian_wordcloud.jpg)
 
 The Turkic wordcloud contained two major, connected worclouds “Arslan” and “Yuluq Arslan.” These are most likely associated with Husam al-Din Yuluq Arslan, who was a ruler of Artuqid dynasty. Interestingly, this dynasty spread over Eastern Turkey, higlighitng the connection between Asia Minor and Turkic identity. 
 
-! (Turkic_wordcloud.jpg)
+! (/assets/images/Turkic_wordcloud.jpg)
 
 Finally the Iranian wordcloud contained clusters such as “Animal,” “Head,” and “Body.” The HAM website shows that most of the objects labeled as “Iranian” are ceramic sculptures of animals. 
 
-! (Iranian_wordcloud.jpg)
+! (/assets/images/Iranian_wordcloud.jpg)
 
 Most of the Central Asian objects were acquired in the year 1924, which coincides with the First Fogg Expedition to China (1923 - 1924). It is interesting to note that Central Asian objects, which were not originally found in Central Asia, ended up in a museum that is, once again, not in Central Asia. 
 
-! (Accession_Year.jpg)
+! (/assets/images/Accession_Year.jpg)
 
 In conclusion, the analysis of Central Asian, Turkic, and Iranian artifacts reveals intricate historical connections. The digital method used in this analysis underscores the significance of interdisciplinary approaches in unraveling the intertwined histories of these cultures and their rich exchanges.
 
