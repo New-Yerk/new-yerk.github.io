@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Yerkebulan Imanbayev"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "An Interactive Media major who occasionally listens to disco."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
