@@ -23,9 +23,9 @@ In conclusion, the comparative analysis between the presentation of artworks on 
 
 For this part of the assignment, I picked Ethiopian objects. It is important to note that these objects were specifically characterized as “Ethiopian” and not “East African,” pointing to a higher degree of certainty regarding the origins of the objects. Unsurprisingly, most of the objects were of religious, particularly Christian, nature, as Ethiopia is known for its rich Orthodox Christian history. While the majority of the objects were religious manuscripts, some such as “Manuscript of Discourses on the Festivals of Saint Michael, with ninety-three paintings” and “Prayer Roll in Amharic” were the most viewed, while others such as “Leather Scroll: Ethiopian Prayers” and “A Manuscript Anthology of Religious Texts and Prayers in Amharic” were the least seen objects, which is puzzling as one would assume that the contents of these objects are equally important.  
 
-! (/assets/images/Ethiopian_1.jpeg)
+<a href = "https://harvardartmuseums.org/collections/object/215805?position=215805"> ![Manuscript of Discourses on the Festivals of Saint Michael, with ninety-three paintings](/assets/images/Ethiopian_1.jpeg) </a>
 
-! (/assets/images/Ethiopian_2.jpeg)
+<a href = "https://harvardartmuseums.org/collections/object/215805?position=215805"> ![Manuscript of Discourses on the Festivals of Saint Michael, with ninety-three paintings](/assets/images/Ethiopian_2.jpeg) </a>
 
 Once I visited the website, I understood that the reason why some were more ‘popular’ than others is due to the presence of images of the most viewed manuscripts and the lack of images of the least viewed ones. This is important because a visitor of the website, such as a professor of the history of Ethiopia or Christinaty, would be interested in seeing not only the descriptions of the objects, but also the contents of the manuscripts. The manuscripts that are the most viewed contain images of writings in Amharic, which could provide a great deal of information regarding the ways Ethiopian writers translated the Bible. This is likely the reason why the “Manuscript of Discourses on the Festivals of Saint Michael, with ninety-three paintings” has been seen more times than another highly viewed artwork “Prayer Roll in Amharic,” as the former is accompanied by higher resolution images, which make its writing more legible in comparison to the latter. Additionally, some of the highly viewed artworks contain images of paintings in the manuscripts, which provides a great deal of information about how Ethiopian artists depicted Christian Saints. This information is simply unaccessible in some of the least viewed artworks due to the lack of images of those objects.
   
@@ -33,19 +33,20 @@ Once I visited the website, I understood that the reason why some were more ‘p
 
 For this part of the assignment, I decided to focus on three cultures that are tied historically: Central Asian, Turkic, and Iranian. There is a great deal of influence that these cultures had on each other, with Central Asian and Turkic identities being virtually indistinguishable from each other in modernity. At first, due to the indicated stop words, the wordclouds of all three cultures had a huge “nan” culture. However, after having removed those in the code, interesting patterns began to emerge. One of the biggest clusters in the Central Asian wordcloud were the words “Buddha” and “Seated Buddha,” along with physical descriptions of the objects themselves such as “Unfired Clay” and “Wooden Stand.” The former clusters are particularly interesting due to the often overlooked history of Buddhism in Central Asia. The preserved art points to the artifacts that showcase that history. A look at the objects themselves on the HAM website reveals that the objects were connected to the Western Xia empire which had trade ties to Central Asia. Interestingly, the name of the city I am from in Kazakhstan (Semey) roughly translates to “Seven Tents,” which refer to the seven Buddhist temples that were found by Russian settlers.
 
-! (/assets/images/Central_Asian_wordcloud.jpg)
+![Central Asian wordcloud](/assets/images/Central_Asian_wordcloud.jpg)
 
 The Turkic wordcloud contained two major, connected worclouds “Arslan” and “Yuluq Arslan.” These are most likely associated with Husam al-Din Yuluq Arslan, who was a ruler of Artuqid dynasty. Interestingly, this dynasty spread over Eastern Turkey, higlighitng the connection between Asia Minor and Turkic identity. 
 
-! (/assets/images/Turkic_wordcloud.jpg)
+![Turkic wordcloud](/assets/images/Turkic_wordcloud.jpg)
 
 Finally the Iranian wordcloud contained clusters such as “Animal,” “Head,” and “Body.” The HAM website shows that most of the objects labeled as “Iranian” are ceramic sculptures of animals. 
 
-! (/assets/images/Iranian_wordcloud.jpg)
+![Iranian wordcloud](/assets/images/Iranian_wordcloud.jpg)
 
 Most of the Central Asian objects were acquired in the year 1924, which coincides with the First Fogg Expedition to China (1923 - 1924). It is interesting to note that Central Asian objects, which were not originally found in Central Asia, ended up in a museum that is, once again, not in Central Asia. 
 
-! (/assets/images/Accession_Year.jpg)
+![Accession Year](/assets/images/Accession_Year.jpg)
 
 In conclusion, the analysis of Central Asian, Turkic, and Iranian artifacts reveals intricate historical connections. The digital method used in this analysis underscores the significance of interdisciplinary approaches in unraveling the intertwined histories of these cultures and their rich exchanges.
 
+**Ready for Grading**
