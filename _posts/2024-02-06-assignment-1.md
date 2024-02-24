@@ -2,11 +2,12 @@
 title: "Assignment 1"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Assignment 
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Central Asia
+  - WordCloud
+  - Harvard Art Museum
+  - PositCloud 
 ---
 
 ## Part 1:
