@@ -38,12 +38,18 @@ As the image above suggests, this is a more politically and socially conscious a
 
 Surprisingly, the word “I’m” is the second most used word. At the time of the album’s release, critics panned the album for being “more about Madonna” than anything else, contrary to the marketing of the album that implied a more selfless, conscious approach to the state of the country. Investigating the album through Voyant Tools is helpful in analyzing if the album is, in fact, much more self-centered than what she described it as. Analyzing the context in which the phrase “I’m” is used, it becomes clear that when she uses it not to speak strictly from her perspective as Madonna, but as a citizen of the US, who is attempting to make sense of the contemporary, capitalist and pro-war sentiments, while attempting to live out the “American Dream.” In “Hollywood,” she sings “Music stations always play the same song, I’m bored with the concept of right and wrong.” In “Nobody Knows Me,” she sings 
 
-“No one's telling me how to live my life 
+“No one's telling me how to live my life
+
 But it's a setup and I'm just fed up 
+
 It's no good when you're misunderstood 
+
 But why should I care 
+
 What the world thinks of me? 
+
 Won't let a stranger 
+
 Give me a social disease” 
 
 Here, one can clearly see that rather than speaking strictly from her own personal experiences or position of power, she takes on the perspective of an average citizen dealing with issues of societal pressure that many of us can relate to. This is not to say that her opinions about those perspectives are not influenced by her status as one of the most famous figures in Hollywood and by her wealth she has amassed: this is simply making space for a more nuanced conversation regarding whether “American Life” by Madonna is truly about American life. 
