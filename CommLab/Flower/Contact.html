@@ -1,0 +1,50 @@
+<!DOCTYPE html> <!-- Declaring the document type -->
+<html > 
+<head>
+
+    <!-- Importing the Roboto Mono font from Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+
+    <meta charset="UTF-8"> <!-- Specifying the character encoding for the HTML document -->
+    
+    <title>Contact Me</title> <!-- Setting the page title -->
+    <link rel="stylesheet" href="styles.css"> <!-- Linking to external CSS file -->
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <div class="topnav">
+        <a href="Home.html">Home</a>
+        <a href="Author.html">Author</a>
+        <a class="active" href="Contact.html">Contact</a> <!-- Active page link -->
+    </div>
+
+    <!-- Contact form container -->
+    <div class="contact-container">
+        <h1>Contact Me</h1>
+        <!-- Contact form -->
+        <form id="contact-form">
+            <!-- Name input field -->
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <!-- Email input field -->
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <!-- Message textarea -->
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea>
+
+            <!-- Submit button -->
+            <button type="submit">Send Message</button>
+        </form>
+    </div>
+
+    <!-- EmailJS library for handling email submissions -->
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <!-- Custom JavaScript file for form handling -->
+    <script src="contact.js"></script>
+</body>
+</html>
