@@ -1,21 +1,21 @@
 /* Defining custom fonts */
 @font-face {
   font-family: "Poppins Thick";
-  src: url('/Users/yerkebulanimanbayev/Desktop/ITDH (Github Folders)/new-yerk.github.io/CommLab/Flower/font/Poppins-Regular.ttf') format('truetype');
+  src: url('font/Poppins-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Poppins Regular";
-  src: url('/Users/yerkebulanimanbayev/Desktop/ITDH (Github Folders)/new-yerk.github.io/CommLab/Flower/font/Poppins-Light.ttf') format('truetype');
+  src: url('font/Poppins-Light.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Poppins Light";
-  src: url('/Users/yerkebulanimanbayev/Desktop/ITDH (Github Folders)/new-yerk.github.io/CommLab/Flower/font/Poppins-Thin.ttf') format('truetype');
+  src: url('font/Poppins-Thin.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
