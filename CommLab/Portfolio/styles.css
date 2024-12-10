@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Rye', cursive;
+    background-color: #f4e4bc;
+}
+
+.wanted-poster {
+    background-color: #f9e7c4;
+    border: 10px solid #8b4513;
+    padding: 40px;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #8b4513;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 96px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 48px;
+    margin-top: 0;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    margin-top: 50px;
+    width: 100%;
+}
+
+.description img,
+.details {
+    width: 50%;
+    max-width: none;
+}
+
+.description img {
+    object-fit: cover;
+    border: 8px solid #8b4513;
+    box-sizing: border-box;
+}
+
+.details {
+    padding: 0 0 0 30px;
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.details p {
+    margin: 15px 0;
+}
+
+h3 {
+    font-size: 48px;
+    margin-top: 50px;
+}
+
+.map {
+    position: relative;
+    height: 600px;
+    border: 5px solid #8b4513;
+    margin-top: 20px;
+    background-image: url('old-map-texture.jpg');
+    background-size: cover;
+}
+
+.project-dot {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #8b4513;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.project-preview {
+    position: absolute;
+    background-color: #f9e7c4;
+    border: 2px solid #8b4513;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 10;
+    top: -150px;
+    left: 20px;
+    width: 300px;
+    text-align: center;
+    display: none;
+}
+
+.progress-bar {
+    margin-top: 20px;
+    border: 2px solid #8b4513;
+    height: 40px;
+    position: relative;
+    background-color: #f9e7c4;
+}
+
+.progress {
+    height: 100%;
+    background-color: #8b4513;
+    width: 0;
+    transition: width 0.5s ease-in-out;
+}
+
+.progress-bar p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 24px;
+}
