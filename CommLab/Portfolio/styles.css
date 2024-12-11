@@ -21,20 +21,17 @@ body, html {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 
-/* Common styles for headings */
 h1, h2, h3 {
     text-align: center;
     color: #8b4513;
     text-transform: uppercase;
 }
 
-/* Specific styles for the main heading */
 h1 {
     font-size: 96px;
     margin-bottom: 10px;
 }
 
-/* Specific styles for the secondary heading */
 h2 {
     font-size: 48px;
     margin-top: 0;
@@ -72,12 +69,10 @@ h2 {
     justify-content: space-between;
 }
 
-/* Margin for paragraphs in the details section */
 .details p {
     margin: 0;
 }
 
-/* Styles for the third-level heading */
 h3 {
     font-size: 48px;
     margin-top: 50px;
@@ -165,7 +160,6 @@ h3 {
     font-size: 24px;
 }
 
-/* Styles for the canvas element (likely used for animations) */
 canvas {
     position: absolute;
     top: 0;

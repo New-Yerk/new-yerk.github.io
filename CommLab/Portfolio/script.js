@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         let iframe;
 
-        // Showing preview on mouse enter
+        // Showing preview on hover
         dot.addEventListener('mouseenter', () => {
             preview.style.display = 'block';
             const placeholder = preview.querySelector('.placeholder');
@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
             preview.style.display = 'none';
         });
 
-        // Opening project in new tab and update progress on click
+        // Opening project in new tab and updating progress on click
         dot.addEventListener('click', () => {
             window.open(project.url, '_blank');
             visitedProjects.add(index);
@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Function to get embed URL for YouTube videos
+    // Function to embed URL for YouTube videos
     function getEmbedUrl(url) {
         if (url.includes('youtube.com') || url.includes('youtu.be')) {
             const videoId = url.split('v=')[1] || url.split('/').pop();
