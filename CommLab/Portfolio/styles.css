@@ -1,5 +1,7 @@
+/* Importing the 'Rye' font from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
 
+/* Setting base font and background */
 body, html {
     margin: 0;
     padding: 0;
@@ -7,6 +9,7 @@ body, html {
     background-color: #f4e4bc;
 }
 
+/* Styling the main container for the Wanted poster */
 .wanted-poster {
     background-color: #f9e7c4;
     border: 10px solid #8b4513;
@@ -18,22 +21,26 @@ body, html {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 
+/* Common styles for headings */
 h1, h2, h3 {
     text-align: center;
     color: #8b4513;
     text-transform: uppercase;
 }
 
+/* Specific styles for the main heading */
 h1 {
     font-size: 96px;
     margin-bottom: 10px;
 }
 
+/* Specific styles for the secondary heading */
 h2 {
     font-size: 48px;
     margin-top: 0;
 }
 
+/* Layout for the description section */
 .description {
     display: flex;
     justify-content: center;
@@ -42,18 +49,21 @@ h2 {
     width: 100%;
 }
 
+/* Styles for the image and details in the description */
 .description img,
 .details {
     width: 50%;
     max-width: none;
 }
 
+/* Additional styles for the image */
 .description img {
     object-fit: cover;
     border: 8px solid #8b4513;
     box-sizing: border-box;
 }
 
+/* Styles for the details section */
 .details {
     padding: 0 0 0 30px;
     font-size: 24px;
@@ -62,24 +72,38 @@ h2 {
     justify-content: space-between;
 }
 
+/* Margin for paragraphs in the details section */
 .details p {
-    margin: 15px 0;
+    margin: 0;
 }
 
+/* Styles for the third-level heading */
 h3 {
     font-size: 48px;
     margin-top: 50px;
 }
 
+/* Styles for the map container */
 .map {
     position: relative;
     height: 600px;
     border: 5px solid #8b4513;
     margin-top: 20px;
-    background-image: url('old-map-texture.jpg');
-    background-size: cover;
+    overflow: hidden;
 }
 
+/* Styles for the map background image */
+.map-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+}
+
+/* Styles for the project dots on the map */
 .project-dot {
     position: absolute;
     width: 20px;
@@ -87,23 +111,32 @@ h3 {
     background-color: #8b4513;
     border-radius: 50%;
     cursor: pointer;
-    z-index: 2;
+    z-index: 3;
 }
 
+/* Styles for the project preview popups */
 .project-preview {
     position: absolute;
     background-color: #f9e7c4;
     border: 2px solid #8b4513;
     padding: 10px;
     border-radius: 5px;
-    z-index: 10;
+    z-index: 30;
     top: -150px;
     left: 20px;
     width: 300px;
     text-align: center;
     display: none;
+    pointer-events: none;
+    user-select: none;
 }
 
+/* Enabling pointer events for iframes within previews */
+.project-preview iframe {
+    pointer-events: auto;
+}
+
+/* Styles for the progress bar container */
 .progress-bar {
     margin-top: 20px;
     border: 2px solid #8b4513;
@@ -112,6 +145,7 @@ h3 {
     background-color: #f9e7c4;
 }
 
+/* Styles for the progress indicator */
 .progress {
     height: 100%;
     background-color: #8b4513;
@@ -119,6 +153,7 @@ h3 {
     transition: width 0.5s ease-in-out;
 }
 
+/* Styles for the text inside the progress bar */
 .progress-bar p {
     position: absolute;
     top: 50%;
@@ -128,4 +163,36 @@ h3 {
     color: #FFFFFF;
     font-weight: bold;
     font-size: 24px;
+}
+
+/* Styles for the canvas element (likely used for animations) */
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .description {
+        flex-direction: column;
+    }
+
+    .description img,
+    .details {
+        width: 100%;
+    }
+
+    .details {
+        padding: 20px 0;
+    }
+
+    h1 {
+        font-size: 10vw;
+    }
+
+    h2, h3 {
+        font-size: 6vw;
+    }
 }
