@@ -2,7 +2,7 @@
 
 ## Description
 
-For my portfolio, I wanted to emphasize my minimalist, yet creative approach to art. As such, I drew inspiration from the Western style "Wanted" posters. My page, thus, provides an image of the suspect, along with details and additional interactive elements that I will elaborate upon below.
+For my portfolio, I wanted to emphasize my minimalist, yet creative approach to art. As such, I drew inspiration from the Western Style "Wanted" posters. My page, thus, provides an image of the suspect, along with details and additional interactive elements that I will elaborate upon below.
 
 ![Wanted](https://github.com/user-attachments/assets/396b721e-4fcd-44ba-bf43-22c1253d6af9)
 
@@ -10,7 +10,7 @@ For my portfolio, I wanted to emphasize my minimalist, yet creative approach to 
 
 ## Interactivity 
 
-When scrolling down the website, the user encounters a map, that suggests the "Potential Locations" of the suspect. These locations not only align with the overall theme of the poster, but are also correlated with the previous projects I have completed in this class. Each location unveils a preview of the projects when the dots are hovered over. The user might notice that there is a progress bar at the very bottom of the page. When each link is clicked, the progress bar becomes filled. And when all of the links are explored, the progress bar becomes complete, conveying the idea that the user "found" the suspect. Not only did this element allow me to creatively engage with the idea of a "Wanted" poster, but it also allowed me to convey a better sense of my art - and, thus, of me. 
+When scrolling down the website, the user encounters a map, that suggests the "Potential Locations" of the suspect. These locations not only align with the overall theme of the poster, but are also correlated with the previous projects I have completed in this class. Each location unveils a preview of the projects when the dots are hovered over. The user might notice that there is a progress bar at the very bottom of the page. As each link is clicked, the progress bar gradually fills. And when all of the links are explored, the progress bar becomes complete, conveying the idea that the user "found" the suspect. Not only did this element allow me to creatively engage with the idea of a "Wanted" poster, but it also allowed me to convey a better sense of my art - and, thus, of me. 
 
 <img width="1174" alt="Map_Section" src="https://github.com/user-attachments/assets/9186452d-3175-4b25-9dea-0b4eccfb4051" />
 
